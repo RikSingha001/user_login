@@ -1,8 +1,9 @@
 # user_login
 
-# PHP Login System (User_Login)
+# PHP Login System (user_login)
 
 This is a simple PHP-based login system that includes:
+
 - Login Page (`login.php`)
 - Main Dashboard (`main.php`)
 - Form Submission Handler (`submit.php`)
@@ -11,25 +12,24 @@ This is a simple PHP-based login system that includes:
 
 ---
 
-## 📥 How to Run on Your Local Computer
+## 🌐 Live Demo
 
-1. **Download and Install XAMPP**  
-   [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)
+👉 **[Click here to open the Live App](https://rik-singha-userlogin.rf.gd/?i=1)**  
+You can test the login system directly from this link.
 
-2. Inside the `htdocs` folder (in your XAMPP installation), create a new folder named `user_login`.
+---
 
-3. Download all the files from this GitHub repository and copy them into the `user_login` folder.
+## 📥 How to Run This Project Locally (optional)
 
-4. Open **XAMPP Control Panel** and start both **Apache** and **MySQL** services ✅
+If you'd like to run this project on your own PC using XAMPP:
 
-5. Open **phpMyAdmin** in your browser:
-
-6. Create a new database named:
-
-7. Import the `user_data.sql` file into this new database.
-
-8. Now, open the login system in your browser:
- http://localhost/user_login/index.php
+1. Download and Install **[XAMPP](https://www.apachefriends.org/index.html)**
+2. Go to the `htdocs` folder and create a new folder named `user_login`
+3. Download this repository and copy all the files into that folder
+4. Open XAMPP Control Panel and start **Apache** and **MySQL**
+5. Go to `http://localhost/phpmyadmin` in your browser
+6. Create a database named `user_data` and import `user_data.sql`
+7. Open in browser: `http://localhost/user_login/index.php`
 
 ---
 
@@ -37,4 +37,5 @@ This is a simple PHP-based login system that includes:
 
 **Rik Singha**  
 GitHub: [https://github.com/RikSingha001](https://github.com/RikSingha001)
+
 
