@@ -14,7 +14,7 @@ This is a simple PHP-based login system that includes:
 
 ## 🌐 Live Demo
 
-👉 **[Click here to open the Live App](https://rik-singha-userlogin.rf.gd/?i=1)**  
+👉 **[Click here to open the Live App](https://rik-singha-userlogin.rf.gd)**  
 You can test the login system directly from this link.
 
 ---
